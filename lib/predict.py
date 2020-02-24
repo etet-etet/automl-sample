@@ -1,6 +1,6 @@
 import sys, os
 
-from google.cloud import automl_v1beta1 as automl
+from google.cloud import automl
 from google.auth.credentials import Credentials
 from google.oauth2 import service_account
 
